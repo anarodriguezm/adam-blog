@@ -1,0 +1,106 @@
+
+
+[   
+      
+  {
+  "tag" : "anaydavid",
+  "posts" : [
+      
+      "./back-to-basics.html",
+      
+      "./starting-the-adventure.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "consejos de viaje",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "david y ana",
+  "posts" : [
+      
+      "./neural-network-optimization-methods.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "japon",
+  "posts" : [
+      
+      "./starting-the-adventure.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "mexico",
+  "posts" : [
+      
+      "./ML-Library-from-scratch.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "reino unido",
+  "posts" : [
+      
+      "./AI-and-intellectual-property.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "turismo",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "viajes",
+  "posts" : [
+      
+      "./AI-and-intellectual-property.html",
+      
+      "./back-to-basics.html",
+      
+      "./starting-the-adventure.html",
+      
+      "./neural-network-optimization-methods.html",
+      
+      "./ML-Library-from-scratch.html",
+      
+      "./conways-game-of-life.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "viajes a Egipto",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } 
+    
+]

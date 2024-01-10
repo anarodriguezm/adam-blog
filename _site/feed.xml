@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-29T14:53:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Minimum Viable Model</title><subtitle>Artificial Intelligence trends and concepts made easy.</subtitle><author><name>David y Ana</name></author><entry><title type="html">REINO UNIDO</title><link href="http://localhost:4000/AI-and-intellectual-property.html" rel="alternate" type="text/html" title="REINO UNIDO" /><published>2021-04-20T00:00:00+02:00</published><updated>2021-04-20T00:00:00+02:00</updated><id>http://localhost:4000/AI-and-intellectual-property</id><content type="html" xml:base="http://localhost:4000/AI-and-intellectual-property.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>REINO UNIDO</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #005cbf;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2 {
+      color: #005cbf;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #005cbf;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>REINO UNIDO</h1>
+    <p>Bienvenido a nuestra página sobre el Reino Unido. Explora la rica historia, la cultura diversa y la belleza de Inglaterra, Escocia, Gales e Irlanda del Norte.</p>
+  </header>
+
+  <section>
+    <h2>Lugares Emblemáticos</h2>
+    <p>Descubre los lugares emblemáticos del Reino Unido, desde el Palacio de Buckingham en Londres hasta el Castillo de Edimburgo en Escocia. Cada región tiene su propia arquitectura impresionante.</p>
+  </section>
+
+  <section>
+    <h2>Cultura Británica</h2>
+    <p>Sumérgete en la rica cultura británica, desde el teatro en el West End de Londres hasta las festividades tradicionales en los pueblos. Disfruta de la diversidad cultural en cada rincón.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía Británica</h2>
+    <p>Disfruta de la variada gastronomía británica, desde el famoso fish and chips hasta los deliciosos pasteles de Cornualles. Explora los sabores tradicionales de las islas británicas.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando el Reino Unido a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David y Ana</name></author><category term="viajes" /><category term="reino unido" /><summary type="html"><![CDATA[REINO UNIDO]]></summary></entry><entry><title type="html">NEW YORK</title><link href="http://localhost:4000/back-to-basics.html" rel="alternate" type="text/html" title="NEW YORK" /><published>2021-04-02T00:00:00+02:00</published><updated>2021-04-02T00:00:00+02:00</updated><id>http://localhost:4000/back-to-basics</id><content type="html" xml:base="http://localhost:4000/back-to-basics.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NEW YORK</title>
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>NEW YORK</h1>
+    <p>Bienvenido a nuestro página sobre Nueva York. Explora la vibrante ciudad que nunca duerme, llena de cultura, rascacielos y diversidad.</p>
+  </header>
+
+  <section>
+    <h2>Barrios Emblemáticos</h2>
+    <p>Descubre la diversidad de los barrios de Nueva York, desde el bullicio de Times Square hasta la elegancia de Upper East Side. Cada vecindario tiene su propia personalidad única.</p>
+  </section>
+
+  <section>
+    <h2>Atracciones Iconicas</h2>
+    <p>Explora las atracciones más icónicas de Nueva York, como la Estatua de la Libertad, Central Park, y el Empire State Building. Sumérgete en la energía de la Gran Manzana.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía Neoyorquina</h2>
+    <p>Disfruta de la variada gastronomía de Nueva York, desde las clásicas rebanadas de pizza hasta la cocina étnica de todo el mundo en los distintos restaurantes de la ciudad.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando Nueva York a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David y Ana</name></author><category term="viajes" /><category term="viajes" /><category term="anaydavid" /><summary type="html"><![CDATA[NEW YORK]]></summary></entry><entry><title type="html">JAPON</title><link href="http://localhost:4000/starting-the-adventure.html" rel="alternate" type="text/html" title="JAPON" /><published>2021-03-24T00:00:00+01:00</published><updated>2021-03-24T00:00:00+01:00</updated><id>http://localhost:4000/starting-the-adventure</id><content type="html" xml:base="http://localhost:4000/starting-the-adventure.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JAPON</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>JAPON</h1>
+    <p>Bienvenido a nuestra página sobre Japón. Explora la rica cultura, la historia fascinante y la belleza única de este país.</p>
+  </header>
+
+  <section>
+    <h2>Cultura Japonesa</h2>
+    <p>Sumérgete en la rica cultura japonesa, desde la ceremonia del té hasta la tradición de los hanami. Descubre la armonía entre lo tradicional y lo moderno.</p>
+  </section>
+
+  <section>
+    <h2>Atracciones Turísticas</h2>
+    <p>Explora las atracciones únicas de Japón, como el Monte Fuji, los templos de Kioto, y los barrios modernos de Tokio. Cada lugar tiene su propia historia y encanto.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía Japonesa</h2>
+    <p>Disfruta de la deliciosa gastronomía japonesa, desde sushi y ramen hasta tempura. Descubre la exquisitez de los sabores japoneses en cada bocado.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando Japón a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David y Ana</name></author><category term="japon" /><category term="viajes" /><category term="anaydavid" /><summary type="html"><![CDATA[JAPON]]></summary></entry><entry><title type="html">EGIPTO</title><link href="http://localhost:4000/deep-q-learning-tic-tac-toe.html" rel="alternate" type="text/html" title="EGIPTO" /><published>2021-03-18T22:14:20+01:00</published><updated>2021-03-18T22:14:20+01:00</updated><id>http://localhost:4000/deep-q-learning-tic-tac-toe</id><content type="html" xml:base="http://localhost:4000/deep-q-learning-tic-tac-toe.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EGIPTO</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>EGIPTO</h1>
+    <p>Bienvenido a nuestra página sobre Egipto. Descubre la fascinante historia y cultura del antiguo país de los faraones.</p>
+  </header>
+
+  <section>
+    <h2>Historia de Egipto</h2>
+    <p>Egipto tiene una historia milenaria que abarca desde las antiguas civilizaciones hasta la época de los faraones. Explora los misterios de las pirámides y los templos egipcios.</p>
+  </section>
+
+  <section>
+    <h2>Atracciones Turísticas</h2>
+    <p>Las atracciones turísticas en Egipto incluyen las pirámides de Giza, el Templo de Karnak, el Valle de los Reyes y el Museo Egipcio en El Cairo. Sumérgete en la rica herencia cultural de este país.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía</h2>
+    <p>Disfruta de la deliciosa gastronomía egipcia, que incluye platos como el koshari, falafel, y dulces como el baklava. Explora los sabores únicos de la cocina egipcia.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando Egipto a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David y Ana</name></author><category term="viajes a Egipto" /><category term="turismo" /><category term="consejos de viaje" /><summary type="html"><![CDATA[EGIPTO]]></summary></entry><entry><title type="html">PARIS</title><link href="http://localhost:4000/neural-network-optimization-methods.html" rel="alternate" type="text/html" title="PARIS" /><published>2021-03-12T20:32:20+01:00</published><updated>2021-03-12T20:32:20+01:00</updated><id>http://localhost:4000/neural-network-optimization-methods</id><content type="html" xml:base="http://localhost:4000/neural-network-optimization-methods.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PARIS</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>PARIS</h1>
+    <p>Bienvenido a nuestra página sobre París. Descubre la belleza de la Ciudad de la Luz.</p>
+  </header>
+
+  <section>
+    <h2>Historia de París</h2>
+    <p>París, la capital de Francia, tiene una rica historia que se remonta a muchos siglos. Desde la Edad Media hasta la Revolución Francesa, la ciudad ha sido testigo de eventos históricos significativos.</p>
+    <img src="posts/20210312/croissant.jpeg" alt="Texto Alternativo" />
+  </section>
+
+  <section>
+    <h2>Atracciones Turísticas</h2>
+    <p>París es famosa por sus icónicas atracciones turísticas, como la Torre Eiffel, el Louvre, la Catedral de Notre-Dame y muchos más. Explora estos lugares emblemáticos y sumérgete en la cultura parisina.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía</h2>
+    <p>La gastronomía parisina es conocida en todo el mundo. Disfruta de deliciosos croissants, baguettes, quesos y vinos en los encantadores cafés y restaurantes de la ciudad.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando París a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David Pelaez y Ana Rodriguez</name></author><category term="viajes" /><category term="david y ana" /><summary type="html"><![CDATA[PARIS]]></summary></entry><entry><title type="html">MEXICO</title><link href="http://localhost:4000/ML-Library-from-scratch.html" rel="alternate" type="text/html" title="MEXICO" /><published>2021-02-28T19:32:20+01:00</published><updated>2021-02-28T19:32:20+01:00</updated><id>http://localhost:4000/ML-Library-from-scratch</id><content type="html" xml:base="http://localhost:4000/ML-Library-from-scratch.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MEXICO</title>
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #e44d26;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2 {
+      color: #e44d26;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #e44d26;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>MEXICO</h1>
+    <p>Bienvenido a nuestra página sobre México. Explora la rica cultura, la historia colorida y la belleza natural de este país lleno de tradiciones.</p>
+  </header>
+
+  <section>
+    <h2>Lugares Emblemáticos</h2>
+    <p>Descubre los lugares emblemáticos de México, desde las antiguas pirámides de Teotihuacán hasta las playas paradisíacas de Cancún. Cada rincón tiene su propia historia y encanto.</p>
+  </section>
+
+  <section>
+    <h2>Cultura Mexicana</h2>
+    <p>Sumérgete en la vibrante cultura mexicana, desde la música mariachi hasta la celebración del Día de los Muertos. La diversidad cultural se refleja en la comida, la danza y las tradiciones.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía Mexicana</h2>
+    <p>Disfruta de la deliciosa gastronomía mexicana, desde tacos y guacamole hasta tamales y mole. Explora los sabores únicos de la cocina tradicional mexicana.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando México a través de mi página!</p>
+  </footer>
+
+</body>
+</html>]]></content><author><name>David y Ana</name></author><category term="viajes" /><category term="mexico" /><summary type="html"><![CDATA[Single neuron perceptron that classifies elements learning quite quickly.]]></summary></entry><entry><title type="html">BERLIN</title><link href="http://localhost:4000/conways-game-of-life.html" rel="alternate" type="text/html" title="BERLIN" /><published>2021-02-10T20:32:20+01:00</published><updated>2021-02-10T20:32:20+01:00</updated><id>http://localhost:4000/conways-game-of-life</id><content type="html" xml:base="http://localhost:4000/conways-game-of-life.html"><![CDATA[<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BERLIN</title>
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>BERLIN</h1>
+    <p>Bienvenido a mi página sobre Berlín. Descubre la fascinante historia, la cultura vibrante y la modernidad de la capital alemana.</p>
+  </header>
+
+  <section>
+    <h2>Puntos de Interés</h2>
+    <p>Explora los puntos de interés de Berlín, como la Puerta de Brandeburgo, el Muro de Berlín y la Isla de los Museos. Cada lugar cuenta una parte única de la historia de la ciudad.</p>
+  </section>
+
+  <section>
+    <h2>Vida Cultural</h2>
+    <p>Sumérgete en la vibrante vida cultural de Berlín, desde galerías de arte contemporáneo hasta eventos musicales y teatrales. La ciudad es conocida por su escena cultural diversa.</p>
+  </section>
+
+  <section>
+    <h2>Gastronomía Berlinesa</h2>
+    <p>Disfruta de la deliciosa gastronomía de Berlín, desde las tradicionales salchichas alemanas hasta la escena culinaria internacional. Los mercados y restaurantes ofrecen una variedad de opciones.</p>
+  </section>
+
+  <footer>
+    <p>¡Espero que disfrutes explorando Berlín a través de mi página!</p>
+  
+
+</footer></body></html>]]></content><author><name>David y Ana</name></author><category term="viajes" /><summary type="html"><![CDATA[BERLIN]]></summary></entry></feed>

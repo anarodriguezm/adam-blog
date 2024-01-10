@@ -1,0 +1,73 @@
+[
+  
+    {
+      "title"       : "REINO UNIDO",
+      "category"    : "",
+      "tags"        : "viajes, reino unido",
+      "url"         : "./AI-and-intellectual-property.html",
+      "date"        : "2021-04-20 00:00:00 +0200",
+      "description" : "",
+      "content"     : "REINO UNIDO REINO UNIDO Bienvenido a nuestra página sobre el Reino Unido. Explora la rica historia, la cultura diversa y la belleza de Inglaterra, Escocia, Gales e Irlanda del Norte. Lugares Emblemáticos Descubre los lugares emblemáticos del Reino Unido, desde el Palacio de Buckingham en Londres hasta el Castillo de Edimburgo en Escocia. Cada región tiene su propia arquitectura impresionante. Cultura Británica Sumérgete en la rica cultura británica, desde el teatro en el West End de Londres hasta las festividades tradicionales en los pueblos. Disfruta de la diversidad cultural en cada rincón. Gastronomía Británica Disfruta de la variada gastronomía británica, desde el famoso fish and chips hasta los deliciosos pasteles de Cornualles. Explora los sabores tradicionales de las islas británicas. ¡Espero que disfrutes explorando el Reino Unido a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "NEW YORK",
+      "category"    : "viajes",
+      "tags"        : "viajes, anaydavid",
+      "url"         : "./back-to-basics.html",
+      "date"        : "2021-04-02 00:00:00 +0200",
+      "description" : "",
+      "content"     : "NEW YORK NEW YORK Bienvenido a nuestro página sobre Nueva York. Explora la vibrante ciudad que nunca duerme, llena de cultura, rascacielos y diversidad. Barrios Emblemáticos Descubre la diversidad de los barrios de Nueva York, desde el bullicio de Times Square hasta la elegancia de Upper East Side. Cada vecindario tiene su propia personalidad única. Atracciones Iconicas Explora las atracciones más icónicas de Nueva York, como la Estatua de la Libertad, Central Park, y el Empire State Building. Sumérgete en la energía de la Gran Manzana. Gastronomía Neoyorquina Disfruta de la variada gastronomía de Nueva York, desde las clásicas rebanadas de pizza hasta la cocina étnica de todo el mundo en los distintos restaurantes de la ciudad. ¡Espero que disfrutes explorando Nueva York a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "JAPON",
+      "category"    : "",
+      "tags"        : "japon, viajes, anaydavid",
+      "url"         : "./starting-the-adventure.html",
+      "date"        : "2021-03-24 00:00:00 +0100",
+      "description" : "",
+      "content"     : "JAPON JAPON Bienvenido a nuestra página sobre Japón. Explora la rica cultura, la historia fascinante y la belleza única de este país. Cultura Japonesa Sumérgete en la rica cultura japonesa, desde la ceremonia del té hasta la tradición de los hanami. Descubre la armonía entre lo tradicional y lo moderno. Atracciones Turísticas Explora las atracciones únicas de Japón, como el Monte Fuji, los templos de Kioto, y los barrios modernos de Tokio. Cada lugar tiene su propia historia y encanto. Gastronomía Japonesa Disfruta de la deliciosa gastronomía japonesa, desde sushi y ramen hasta tempura. Descubre la exquisitez de los sabores japoneses en cada bocado. ¡Espero que disfrutes explorando Japón a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "EGIPTO",
+      "category"    : "",
+      "tags"        : "viajes a Egipto, turismo, consejos de viaje",
+      "url"         : "./deep-q-learning-tic-tac-toe.html",
+      "date"        : "2021-03-18 22:14:20 +0100",
+      "description" : "",
+      "content"     : "EGIPTO EGIPTO Bienvenido a nuestra página sobre Egipto. Descubre la fascinante historia y cultura del antiguo país de los faraones. Historia de Egipto Egipto tiene una historia milenaria que abarca desde las antiguas civilizaciones hasta la época de los faraones. Explora los misterios de las pirámides y los templos egipcios. Atracciones Turísticas Las atracciones turísticas en Egipto incluyen las pirámides de Giza, el Templo de Karnak, el Valle de los Reyes y el Museo Egipcio en El Cairo. Sumérgete en la rica herencia cultural de este país. Gastronomía Disfruta de la deliciosa gastronomía egipcia, que incluye platos como el koshari, falafel, y dulces como el baklava. Explora los sabores únicos de la cocina egipcia. ¡Espero que disfrutes explorando Egipto a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "PARIS",
+      "category"    : "",
+      "tags"        : "viajes, david y ana",
+      "url"         : "./neural-network-optimization-methods.html",
+      "date"        : "2021-03-12 20:32:20 +0100",
+      "description" : "",
+      "content"     : "PARIS PARIS Bienvenido a nuestra página sobre París. Descubre la belleza de la Ciudad de la Luz. Historia de París París, la capital de Francia, tiene una rica historia que se remonta a muchos siglos. Desde la Edad Media hasta la Revolución Francesa, la ciudad ha sido testigo de eventos históricos significativos. Atracciones Turísticas París es famosa por sus icónicas atracciones turísticas, como la Torre Eiffel, el Louvre, la Catedral de Notre-Dame y muchos más. Explora estos lugares emblemáticos y sumérgete en la cultura parisina. Gastronomía La gastronomía parisina es conocida en todo el mundo. Disfruta de deliciosos croissants, baguettes, quesos y vinos en los encantadores cafés y restaurantes de la ciudad. ¡Espero que disfrutes explorando París a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "MEXICO",
+      "category"    : "",
+      "tags"        : "viajes, mexico",
+      "url"         : "./ML-Library-from-scratch.html",
+      "date"        : "2021-02-28 19:32:20 +0100",
+      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
+      "content"     : "MEXICO MEXICO Bienvenido a nuestra página sobre México. Explora la rica cultura, la historia colorida y la belleza natural de este país lleno de tradiciones. Lugares Emblemáticos Descubre los lugares emblemáticos de México, desde las antiguas pirámides de Teotihuacán hasta las playas paradisíacas de Cancún. Cada rincón tiene su propia historia y encanto. Cultura Mexicana Sumérgete en la vibrante cultura mexicana, desde la música mariachi hasta la celebración del Día de los Muertos. La diversidad cultural se refleja en la comida, la danza y las tradiciones. Gastronomía Mexicana Disfruta de la deliciosa gastronomía mexicana, desde tacos y guacamole hasta tamales y mole. Explora los sabores únicos de la cocina tradicional mexicana. ¡Espero que disfrutes explorando México a través de mi página!"
+    } ,
+  
+    {
+      "title"       : "BERLIN",
+      "category"    : "",
+      "tags"        : "viajes",
+      "url"         : "./conways-game-of-life.html",
+      "date"        : "2021-02-10 20:32:20 +0100",
+      "description" : "",
+      "content"     : "BERLIN BERLIN Bienvenido a mi página sobre Berlín. Descubre la fascinante historia, la cultura vibrante y la modernidad de la capital alemana. Puntos de Interés Explora los puntos de interés de Berlín, como la Puerta de Brandeburgo, el Muro de Berlín y la Isla de los Museos. Cada lugar cuenta una parte única de la historia de la ciudad. Vida Cultural Sumérgete en la vibrante vida cultural de Berlín, desde galerías de arte contemporáneo hasta eventos musicales y teatrales. La ciudad es conocida por su escena cultural diversa. Gastronomía Berlinesa Disfruta de la deliciosa gastronomía de Berlín, desde las tradicionales salchichas alemanas hasta la escena culinaria internacional. Los mercados y restaurantes ofrecen una variedad de opciones. ¡Espero que disfrutes explorando Berlín a través de mi página!"
+    } 
+  
+]
